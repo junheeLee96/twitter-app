@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://junheeLee96.github.io/twitter/static/css/main.6cf35924.css",
+    "main.js": "https://junheeLee96.github.io/twitter/static/js/main.c77b99d3.js",
+    "index.html": "https://junheeLee96.github.io/twitter/index.html",
+    "main.6cf35924.css.map": "https://junheeLee96.github.io/twitter/static/css/main.6cf35924.css.map",
+    "main.c77b99d3.js.map": "https://junheeLee96.github.io/twitter/static/js/main.c77b99d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cf35924.css",
+    "static/js/main.c77b99d3.js"
+  ]
+}
