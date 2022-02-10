@@ -1,5 +1,10 @@
 import React from "react";
-import { HashRouter as Router, Route, Switch } from "react-router-dom";
+import {
+  HashRouter as Router,
+  Route,
+  Switch,
+  HashRouter,
+} from "react-router-dom";
 import Auth from "../routes/Auth";
 import Home from "../routes/Home";
 import Navigation from "./Navigation";
@@ -21,9 +26,9 @@ const AppRouter = ({ refreshUser, isLoggedIn, userObj }) => {
               justifyContent: "center",
             }}
           >
-            <Route exact path="/">
+            <HashRouter base="/">
               <Home userObj={userObj} />
-            </Route>
+            </HashRouter>
             <Route exact path="/profile">
               <Profile userObj={userObj} refreshUser={refreshUser} />
             </Route>
