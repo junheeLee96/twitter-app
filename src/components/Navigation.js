@@ -32,6 +32,7 @@ const Navigation = ({ userObj }) => {
               flexDirection: "column",
               alignItems: "center",
               fontSize: 12,
+              cursor: "pointer",
             }}
           >
             <FontAwesomeIcon icon={faUser} color={"#04AAFF"} size="2x" />
