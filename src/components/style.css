@@ -79,6 +79,11 @@ form {
 
 /* Profile Page */
 
+.ProCon {
+  position: absolute;
+  top: 0;
+}
+
 .profileForm {
   border-bottom: 1px solid rgba(255, 255, 255, 0.9);
   padding-bottom: 30px;
