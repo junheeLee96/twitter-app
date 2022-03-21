@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "https://junheeLee96.github.io/twitter-app/static/css/main.6cf35924.css",
-    "main.js": "https://junheeLee96.github.io/twitter-app/static/js/main.508d8812.js",
+    "main.css": "https://junheeLee96.github.io/twitter-app/static/css/main.06ced3e1.css",
+    "main.js": "https://junheeLee96.github.io/twitter-app/static/js/main.a7c035c0.js",
     "index.html": "https://junheeLee96.github.io/twitter-app/index.html",
-    "main.6cf35924.css.map": "https://junheeLee96.github.io/twitter-app/static/css/main.6cf35924.css.map",
-    "main.508d8812.js.map": "https://junheeLee96.github.io/twitter-app/static/js/main.508d8812.js.map"
+    "main.06ced3e1.css.map": "https://junheeLee96.github.io/twitter-app/static/css/main.06ced3e1.css.map",
+    "main.a7c035c0.js.map": "https://junheeLee96.github.io/twitter-app/static/js/main.a7c035c0.js.map"
   },
   "entrypoints": [
-    "static/css/main.6cf35924.css",
-    "static/js/main.508d8812.js"
+    "static/css/main.06ced3e1.css",
+    "static/js/main.a7c035c0.js"
   ]
 }
