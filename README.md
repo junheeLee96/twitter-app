@@ -11,8 +11,16 @@ React를 배운 후, 이를 적용해 무언가 만들고 싶다는 생각에 �
 
 |로그인|
 |-----|
-|테스트1|
+|![tw1](https://user-images.githubusercontent.com/89452058/160955290-cf0c680b-9cd8-4845-b333-f348dd337b1c.png)
+|
 
+|홈|
+|-----|
+|![tw2](https://user-images.githubusercontent.com/89452058/160955330-da276c24-7ae8-4d1c-9e92-85ed5fd002f6.png)|
+
+|수정/로그아웃|
+|-----|
+|![tw3](https://user-images.githubusercontent.com/89452058/160955363-5e0856c2-beb0-4f57-979b-9508627ea5d9.png)|
 
 ## 사용기술
 
