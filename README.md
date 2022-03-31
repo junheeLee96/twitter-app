@@ -12,7 +12,7 @@ React를 배운 후, 이를 적용해 무언가 만들고 싶다는 생각에 �
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 
-##개발환경 설치
+## 개발환경 설치
 
 ```
 npm install react-router-dom firebase @fortawesome/fontawesome-free
